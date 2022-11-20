@@ -12,10 +12,10 @@
 - React Context
 - React Skeleton
 
- <div style={{ backgroundImage: `url(${require("../../../public/img/sneakers/1.jpg")})` }} className='cartItemImg'></div>
- <img width={40} height={40} src={require("../../../public/img/logo.png")} alt="Logotype" />
- <img width={133} height={112} src={require("../../public/img/sneakers/2.jpg")} alt="Sneakers" />
- <img width={11} height={11} src={require('../../public/img/arrow.svg').default} alt="Arrow" />
+// <div style={{ backgroundImage: `url(${require("../../../public/img/sneakers/1.jpg")})` }} className='cartItemImg'></div>
+ //<img width={40} height={40} src={require("../../../public/img/logo.png")} alt="Logotype" />
+ //<img width={133} height={112} src={require("../../public/img/sneakers/2.jpg")} alt="Sneakers" />
+ //<img width={11} height={11} src={require('../../public/img/arrow.svg').default} alt="Arrow" />
 
 
 
